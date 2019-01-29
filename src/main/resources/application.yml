@@ -1,0 +1,7 @@
+ftp: 
+  client:
+    host: 132.232.68.30
+    port: 21
+    username: isv
+    password: xintai1234
+    passiveMode: true
